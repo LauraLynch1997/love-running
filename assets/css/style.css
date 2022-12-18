@@ -282,6 +282,14 @@ h1, h2 {
             padding: 0;
         }
 
+        #times > div {
+            width: 100%;
+            clear: both;
+            justify-content: 150px;
+            padding: 0;
+
+        }
+
         hr {
             display: none;
         }
@@ -324,3 +332,4 @@ h1, h2 {
     }
 
 }
+
